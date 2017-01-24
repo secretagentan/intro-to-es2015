@@ -2,8 +2,9 @@
 
 In Squads research the following new features in EcmaScript 2015.
 
-Create a gist with code samples and be prepared to present a short example of each.
+Fork, clone and add this repository as an upstream.
 
+Create a new markdown file with code samples and be prepared to present a short example of each.
 
 Group A
 
