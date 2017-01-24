@@ -1,8 +1,8 @@
-# ES 2015
+# 🚀 EcmaScript 2015
 
 In Squads research the following new features in EcmaScript 2015.
 
-Fork, clone and add this repository as an upstream.
+Fork, clone and add this [repository as an upstream](https://help.github.com/articles/configuring-a-remote-for-a-fork/).
 
 Create a new markdown file with code samples and be prepared to present a short example of each.
 
